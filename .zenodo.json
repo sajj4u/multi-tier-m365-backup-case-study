@@ -1,0 +1,30 @@
+{
+  "title": "Design and Validation of a Multi-Tier Microsoft 365 Backup Architecture",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2026-10-04",
+  "creators": [
+    {
+      "name": "Sarwar, Sajid",
+      "affiliation": "Independent Researcher, Kuwait",
+      "orcid": "0009-0002-2120-9631"
+    }
+  ],
+  "description": "A sanitized enterprise case study of Microsoft 365 protection using a four-node primary backup cluster, a controlled Windows recovery connector, Veritas NetBackup MSDP, and LTO-9 long-term retention. The implementation validates protection, Exchange Online PST recovery, application-level content access, secondary disk backup, and tape duplication while explicitly documenting the tests that remain for production readiness.",
+  "keywords": [
+    "Microsoft 365",
+    "Cohesity DataProtect",
+    "Veritas NetBackup",
+    "MSDP",
+    "LTO-9",
+    "enterprise backup",
+    "recovery validation",
+    "data protection",
+    "long-term retention"
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "1.0.0",
+  "notes": "Public sanitized edition. Organization-specific and security-sensitive operational identifiers have been removed."
+}

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use or discuss this case study, please cite the technical report."
+title: "Design and Validation of a Multi-Tier Microsoft 365 Backup Architecture"
+authors:
+  - family-names: "Sarwar"
+    given-names: "Sajid"
+    orcid: "https://orcid.org/0009-0002-2120-9631"
+version: 1.0.0
+date-released: 2026-10-04
+doi: "10.5281/zenodo.23133779"
+url: "https://doi.org/10.5281/zenodo.23133779"
+abstract: >-
+  A sanitized enterprise case study of Microsoft 365 protection using a
+  four-node primary backup cluster, controlled Windows recovery staging,
+  NetBackup MSDP, and LTO-9 long-term retention. The report emphasizes
+  application-level recovery validation and end-to-end copy-chain evidence.
+keywords:
+  - Microsoft 365
+  - Cohesity DataProtect
+  - Veritas NetBackup
+  - MSDP
+  - LTO-9
+  - backup
+  - recovery validation
+  - data protection
+preferred-citation:
+  type: report
+  title: "Design and Validation of a Multi-Tier Microsoft 365 Backup Architecture"
+  authors:
+    - family-names: "Sarwar"
+      given-names: "Sajid"
+      orcid: "https://orcid.org/0009-0002-2120-9631"
+  year: 2026
+  doi: "10.5281/zenodo.23133779"
